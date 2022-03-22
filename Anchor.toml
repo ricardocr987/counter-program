@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-counter_program = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+counter_program = "AkZZu7ipdyxhxt8NcZQt2WBRH6KtXqx5AWzb2c1LsTgs"
 
 [registry]
 url = "https://anchor.projectserum.com"

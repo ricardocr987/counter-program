@@ -8,7 +8,7 @@ use anchor_lang::prelude::*;
 // con anchor nos pondrá la misma PublicKey por defecto con usemos el comando build con su CLI, tendremos
 // que cambiar esta Publickey por la que nos muestre por pantalla, además de la que hay
 // en el archivo Anchor.toml del folder principal del proyecto
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("AkZZu7ipdyxhxt8NcZQt2WBRH6KtXqx5AWzb2c1LsTgs");
 
 // CONSEJO: Para entender mejor el código mejor que leas de abajo a arriba.
 

@@ -15,7 +15,7 @@ describe("counter-program", () => {
   // Esta variable es una representación de nuestro smart contract en un test mocha
   const program = anchor.workspace.CounterProgram as Program<CounterProgram>;
   
-  // Creamos una public key, va a ser la dirección de la Account que almacena los datos
+  // Creamos una Keypair (public+private), va a ser la dirección de la Account que almacena los datos
   const counter_account = anchor.web3.Keypair.generate();
 
   // Primer test, inicialización/creación de la account
